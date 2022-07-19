@@ -65,7 +65,7 @@ REQUEST_MESSAGE = """
  
 𝚁𝙴𝚀𝚄𝙴𝚂𝚃𝙴𝙳 𝚀𝚄𝙴𝚁𝚈 : {query}
 
- ™ {group_name}"""
+[𝐌𝐎𝐕𝐈𝐄𝐒𝐇𝐔𝐁](https://t.me/+MNczoLfGDYM1ZmEx)"""
 
 WELCOME_MESSAGE = """
 𝙷𝙴𝙻𝙻𝙾 {first} 👋
