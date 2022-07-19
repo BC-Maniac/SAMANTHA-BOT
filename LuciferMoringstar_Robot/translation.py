@@ -54,7 +54,7 @@ CHAT_LOGS_MESSAGE = """
 • **{title}**\n• `{id}`\n• **{join}**"""
 
 SPELLMODE_MESSAGE = """
-𝙷𝙴𝙻𝙻𝙾 {mention}👋
+𝙷𝙴𝙻𝙻𝙾 {mention}
 
 𝙲𝙾𝚄𝙻𝙳𝙽'𝚃 𝙵𝙸𝙽𝙳 𝚈𝙾𝚄𝚁 𝚁𝙴𝚀𝚄𝙴𝚂𝚃 : {query}
 
