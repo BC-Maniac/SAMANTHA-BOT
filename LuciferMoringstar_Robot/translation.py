@@ -33,7 +33,8 @@ START_MESSAGE = """
 
 HELP_MESSAGE = """
 𝙷𝙴𝙻𝙻𝙾 {mention}
-𝙸 𝙲𝙰𝙽 𝙶𝚄𝙸𝙳𝙴 𝚈𝙾𝚄 𝚃𝙷𝚁𝙾𝚄𝙶𝙷 𝙰𝙻𝙻 𝙾𝙵𝙵 𝗦𝗔𝗠𝗔𝗡𝗧𝗛𝗔', 𝙲𝙾𝙾𝙻 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂 𝙰𝙽𝙳 𝙷𝙾𝚆 𝚃𝙾 𝙿𝚁𝙾𝙿𝙴𝚁𝙻𝚈 𝚄𝚂𝙴 𝚃𝙷𝙴𝙼. 𝚃𝙷𝙴 𝙱𝚄𝚃𝚃𝙾𝙽𝚂 𝙱𝙴𝙻𝙾𝚆 𝚃𝙾 𝙽𝙰𝚅𝙸𝙶𝙰𝚃𝙴 𝚃𝙷𝙴𝙾𝚄𝙶𝙷 𝙰𝙻𝙻 𝙾𝙵 𝚃𝙷𝙴 𝙼𝙾𝙳𝚄𝙻𝙴𝚂
+
+𝙸 𝙲𝙰𝙽 𝙶𝚄𝙸𝙳𝙴 𝚈𝙾𝚄 𝚃𝙷𝚁𝙾𝚄𝙶𝙷 𝙰𝙻𝙻 𝙾𝙵𝙵 '𝗦𝗔𝗠𝗔𝗡𝗧𝗛𝗔', 𝙲𝙾𝙾𝙻 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂 𝙰𝙽𝙳 𝙷𝙾𝚆 𝚃𝙾 𝙿𝚁𝙾𝙿𝙴𝚁𝙻𝚈 𝚄𝚂𝙴 𝚃𝙷𝙴𝙼. 𝚃𝙷𝙴 𝙱𝚄𝚃𝚃𝙾𝙽𝚂 𝙱𝙴𝙻𝙾𝚆 𝚃𝙾 𝙽𝙰𝚅𝙸𝙶𝙰𝚃𝙴 𝚃𝙷𝙴𝙾𝚄𝙶𝙷 𝙰𝙻𝙻 𝙾𝙵 𝚃𝙷𝙴 𝙼𝙾𝙳𝚄𝙻𝙴𝚂
 """
 
 ABOUT_MESSAGE = """
@@ -54,25 +55,25 @@ CHAT_LOGS_MESSAGE = """
 • **{title}**\n• `{id}`\n• **{join}**"""
 
 SPELLMODE_MESSAGE = """
-**HELLO {mention}
+𝙷𝙴𝙻𝙻𝙾 {mention}👋
 
-COULDN'T FIND YOUR REQUEST : {query}
+𝙲𝙾𝚄𝙻𝙳𝙽'𝚃 𝙵𝙸𝙽𝙳 𝚈𝙾𝚄𝚁 𝚁𝙴𝚀𝚄𝙴𝚂𝚃 : {query}
 
-PLEASE CHECK THE SPELLING IN GOOGLE 🙂**"""
+𝙿𝙻𝙴𝙰𝚂𝙴 𝙲𝙷𝙴𝙲𝙺 𝚃𝙷𝙴 𝚂𝙿𝙴𝙻𝙻𝙸𝙽𝙶 𝙾𝙽 𝙶𝙾𝙾𝙶𝙻𝙴 🙂"""
 
 REQUEST_MESSAGE ="""
-**REQUESTED BY : {mention}
+𝚁𝙴𝚀𝚄𝙴𝚂𝚃𝙴𝙳 𝙱𝚈 : {mention}
  
 𝚁𝙴𝚀𝚄𝙴𝚂𝚃𝙴𝙳 𝚀𝚄𝙴𝚁𝚈 : {query}
 
-[𝐌𝐎𝐕𝐈𝐄𝐒𝐇𝐔𝐁](https://t.me/+MNczoLfGDYM1ZmEx)**"""
+𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 : [𝐌𝐎𝐕𝐈𝐄𝐒𝐇𝐔𝐁](https://t.me/+MNczoLfGDYM1ZmEx)**"""
 
 WELCOME_MESSAGE = """
-𝙷𝙴𝙻𝙻𝙾 {first}
+𝙷𝙴𝙻𝙻𝙾 {first}👋
 
 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 '𝐌𝐎𝐕𝐈𝐄𝐒𝐇𝐔𝐁 𝗚𝗥𝗢𝗨𝗣'
 
-𝚈𝙾𝚄 𝙲𝙰𝙽 𝚁𝙴𝚀𝚄𝙴𝚂𝚃 𝙼𝙾𝚅𝙸𝙴𝚂 𝙷𝙴𝚁𝙴"""
+𝚈𝙾𝚄 𝙲𝙰𝙽 𝚁𝙴𝚀𝚄𝙴𝚂𝚃 𝙼𝙾𝚅𝙸𝙴𝚂 𝙷𝙴𝚁𝙴 🔍"""
 
 FILECAPTION_MESSAGE = """
 𝑯𝒆𝒚 {mention}
