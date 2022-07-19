@@ -25,26 +25,26 @@
 # License Link : https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LICENSE
 
 START_MESSAGE = """
-👋Hello {mention}..!
-It's Power Full [{name}](t.me/{username}) Here 😎
-Add Me To Your Group And Make Sure I'm an Admin There..!
-And Enjoy My Pever Show..! 🤪"""
+𝑯𝒆𝒚 {mention}👋
+
+𝑰 𝒂𝒎 "𝗦𝗔𝗠𝗔𝗡𝗧𝗛𝗔" 𝒚𝒐𝒖 𝒄𝒂𝒏 𝒄𝒂𝒍𝒍 𝒎𝒆 𝒂𝒔 𝑨𝒖𝒕𝒐𝒇𝒊𝒍𝒕𝒆𝒓𝒃𝒐𝒕 😌
+
+𝑬𝒙𝒄𝒍𝒖𝒔𝒊𝒗𝒆𝒍𝒚 𝒎𝒂𝒅𝒆 𝒇𝒐𝒓 𝒕𝒉𝒆 𝒕𝒆𝒂𝒎 𝐌𝐎𝐕𝐈𝐄𝐒𝐇𝐔𝐁 . . .❕"""
 
 HELP_MESSAGE = """
 𝙷𝙴𝙻𝙻𝙾 {mention}
-𝙸 𝙲𝙰𝙽 𝙶𝚄𝙸𝙳𝙴 𝚈𝙾𝚄 𝚃𝙷𝚁𝙾𝚄𝙶𝙷 𝙰𝙻𝙻 𝙾𝙵𝙵 [{name}](https://t.me/{username})', 𝙲𝙾𝙾𝙻 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂 𝙰𝙽𝙳 𝙷𝙾𝚆 𝚃𝙾 𝙿𝚁𝙾𝙿𝙴𝚁𝙻𝚈 𝚄𝚂𝙴 𝚃𝙷𝙴𝙼. 𝚃𝙷𝙴 𝙱𝚄𝚃𝚃𝙾𝙽𝚂 𝙱𝙴𝙻𝙾𝚆 𝚃𝙾 𝙽𝙰𝚅𝙸𝙶𝙰𝚃𝙴 𝚃𝙷𝙴𝙾𝚄𝙶𝙷 𝙰𝙻𝙻 𝙾𝙵 𝚃𝙷𝙴 𝙼𝙾𝙳𝚄𝙻𝙴𝚂
+𝙸 𝙲𝙰𝙽 𝙶𝚄𝙸𝙳𝙴 𝚈𝙾𝚄 𝚃𝙷𝚁𝙾𝚄𝙶𝙷 𝙰𝙻𝙻 𝙾𝙵𝙵 𝗦𝗔𝗠𝗔𝗡𝗧𝗛𝗔', 𝙲𝙾𝙾𝙻 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂 𝙰𝙽𝙳 𝙷𝙾𝚆 𝚃𝙾 𝙿𝚁𝙾𝙿𝙴𝚁𝙻𝚈 𝚄𝚂𝙴 𝚃𝙷𝙴𝙼. 𝚃𝙷𝙴 𝙱𝚄𝚃𝚃𝙾𝙽𝚂 𝙱𝙴𝙻𝙾𝚆 𝚃𝙾 𝙽𝙰𝚅𝙸𝙶𝙰𝚃𝙴 𝚃𝙷𝙴𝙾𝚄𝙶𝙷 𝙰𝙻𝙻 𝙾𝙵 𝚃𝙷𝙴 𝙼𝙾𝙳𝚄𝙻𝙴𝚂
 """
 
 ABOUT_MESSAGE = """
 𝙱𝙾𝚃 𝚃𝚈𝙿𝙴 : 𝙰𝚄𝚃𝙾𝙵𝙸𝙻𝚃𝙴𝚁
-𝙱𝙾𝚃 𝙱𝚁𝙰𝙽𝙲𝙷 : 𝙻𝚄𝙲𝙸𝙵𝙴𝚁
-𝙱𝙾𝚃 𝙻𝙸𝙲𝙴𝙽𝚂𝙴 : [𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴](https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LICENSE)
-𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 : [𝙼𝚄𝙷𝙰𝙼𝙼𝙴𝙳](t.me/PR0FESS0R_99)
-𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : [{name}](https://t.me/{username})
+𝙱𝙾𝚃 𝙱𝚁𝙰𝙽𝙲𝙷 : 𝙼𝙰𝙽𝙸𝙰𝙲 𝙱𝙾𝚃𝚉
+𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 : [𝙼𝙰𝙽𝙸𝙰𝙲](https://t.me/XYZ55555)
+𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : [𝙼𝙰𝙽𝙸𝙰𝙲](https://t.me/XYZ55555)
 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : 𝙿𝚈𝚃𝙷𝙾𝙽3 : {py3_version}
 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼 : {pyro_version}
 𝚅𝙴𝚁𝚂𝙸𝙾𝙽 : {version}
-𝚂𝙾𝚄𝚁𝙲𝙴 : [𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴]({source})
+𝚂𝙾𝚄𝚁𝙲𝙴 : [𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴](https://github.com/BC-Maniac/SAMANTHA-BOT)
 """
 
 SETTINGS_MESSAGE = """
@@ -54,17 +54,32 @@ CHAT_LOGS_MESSAGE = """
 • **{title}**\n• `{id}`\n• **{join}**"""
 
 SPELLMODE_MESSAGE = """
-**__Hello 👋 {mention}**__
-**__Couldn't Find {query} ?  Please Click Your Request Name**__"""
+𝙷𝙴𝙻𝙻𝙾 {mention}👋
+
+𝙲𝙾𝚄𝙻𝙳𝙽'𝚃 𝙵𝙸𝙽𝙳 𝚈𝙾𝚄𝚁 𝚁𝙴𝚀𝚄𝙴𝚂𝚃 : {query}
+
+𝙿𝙻𝙴𝙰𝚂𝙴 𝙲𝙷𝙴𝙲𝙺 𝚃𝙷𝙴 𝚂𝙿𝙴𝙻𝙻𝙸𝙽𝙶 𝙾𝙽 𝙶𝙾𝙾𝙶𝙻𝙴 🙂
 
 REQUEST_MESSAGE = """
-**Requested By:** {mention}\n**Requested Name:** {query}\n™ {group_name}"""
+𝚁𝙴𝚀𝚄𝙴𝚂𝚃𝙴𝙳 𝙱𝚈 : {mention}
+ 
+𝚁𝙴𝚀𝚄𝙴𝚂𝚃𝙴𝙳 𝚀𝚄𝙴𝚁𝚈 : {query}
+
+ ™ {group_name}"""
 
 WELCOME_MESSAGE = """
-𝙷𝙴𝙻𝙻𝙾 {mention} 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 {group_name}"""
+𝙷𝙴𝙻𝙻𝙾 {first} 👋
+
+𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 '𝐌𝐎𝐕𝐈𝐄𝐒𝐇𝐔𝐁 𝗚𝗥𝗢𝗨𝗣'
+
+𝚈𝙾𝚄 𝙲𝙰𝙽 𝚁𝙴𝚀𝚄𝙴𝚂𝚃 𝙼𝙾𝚅𝙸𝙴𝚂 𝙷𝙴𝚁𝙴 🔍"""
 
 FILECAPTION_MESSAGE = """
-• `{file_name}` \n 𝙹𝙾𝙸𝙽 : @Night_MovieZ"""
+𝑯𝒆𝒚 {mention} 👋
+
+{caption}
+
+𝐅𝐢𝐥𝐞 𝐒𝐢𝐳𝐞 : {size}"""
 
 ADMIN_CMD_MESSAGE = """
 𝙰𝙳𝙼𝙸𝙽𝚂 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂 :-
