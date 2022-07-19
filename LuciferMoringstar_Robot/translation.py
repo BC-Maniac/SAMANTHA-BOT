@@ -68,7 +68,7 @@ REQUEST_MESSAGE = """
 [𝐌𝐎𝐕𝐈𝐄𝐒𝐇𝐔𝐁](https://t.me/+MNczoLfGDYM1ZmEx)"""
 
 WELCOME_MESSAGE = """
-𝙷𝙴𝙻𝙻𝙾 {first} 👋
+𝙷𝙴𝙻𝙻𝙾 {first}
 
 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 '𝐌𝐎𝐕𝐈𝐄𝐒𝐇𝐔𝐁 𝗚𝗥𝗢𝗨𝗣'
 
