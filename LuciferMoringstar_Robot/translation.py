@@ -72,10 +72,10 @@ WELCOME_MESSAGE = """
 
 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 '𝐌𝐎𝐕𝐈𝐄𝐒𝐇𝐔𝐁 𝗚𝗥𝗢𝗨𝗣'
 
-𝚈𝙾𝚄 𝙲𝙰𝙽 𝚁𝙴𝚀𝚄𝙴𝚂𝚃 𝙼𝙾𝚅𝙸𝙴𝚂 𝙷𝙴𝚁𝙴 🔍"""
+𝚈𝙾𝚄 𝙲𝙰𝙽 𝚁𝙴𝚀𝚄𝙴𝚂𝚃 𝙼𝙾𝚅𝙸𝙴𝚂 𝙷𝙴𝚁𝙴"""
 
 FILECAPTION_MESSAGE = """
-𝑯𝒆𝒚 {mention} 👋
+𝑯𝒆𝒚 {mention}
 
 {caption}
 
