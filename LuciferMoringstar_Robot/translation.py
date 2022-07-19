@@ -54,18 +54,18 @@ CHAT_LOGS_MESSAGE = """
 • **{title}**\n• `{id}`\n• **{join}**"""
 
 SPELLMODE_MESSAGE = """
-𝙷𝙴𝙻𝙻𝙾 {mention}
+**HELLO {mention}
 
-𝙲𝙾𝚄𝙻𝙳𝙽'𝚃 𝙵𝙸𝙽𝙳 𝚈𝙾𝚄𝚁 𝚁𝙴𝚀𝚄𝙴𝚂𝚃 : {query}
+COULDN'T FIND YOUR REQUEST : {query}
 
-𝙿𝙻𝙴𝙰𝚂𝙴 𝙲𝙷𝙴𝙲𝙺 𝚃𝙷𝙴 𝚂𝙿𝙴𝙻𝙻𝙸𝙽𝙶 𝙾𝙽 𝙶𝙾𝙾𝙶𝙻𝙴 🙂
+PLEASE CHECK THE SPELLING IN GOOGLE 🙂**"""
 
-REQUEST_MESSAGE = """
-𝚁𝙴𝚀𝚄𝙴𝚂𝚃𝙴𝙳 𝙱𝚈 : {mention}
+REQUEST_MESSAGE ="""
+**REQUESTED BY : {mention}
  
 𝚁𝙴𝚀𝚄𝙴𝚂𝚃𝙴𝙳 𝚀𝚄𝙴𝚁𝚈 : {query}
 
-[𝐌𝐎𝐕𝐈𝐄𝐒𝐇𝐔𝐁](https://t.me/+MNczoLfGDYM1ZmEx)"""
+[𝐌𝐎𝐕𝐈𝐄𝐒𝐇𝐔𝐁](https://t.me/+MNczoLfGDYM1ZmEx)**"""
 
 WELCOME_MESSAGE = """
 𝙷𝙴𝙻𝙻𝙾 {first}
